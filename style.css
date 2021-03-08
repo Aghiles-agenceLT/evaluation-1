@@ -2,18 +2,19 @@
     background-color: #212121;
     height: 90vh;
     min-height: 90vh; 
-    padding: 20%;
+    padding-top: 35%;
 }
 
 h1 {
-    font-size: 10vw;
+    font-size: 150px;
     text-align: center;
     color: #fff;
     font-weight: 900;
 }
 
 h2 {
-    font-size: 2vw;
+    font-size: 32px;
+    font-weight: 900;
     text-align: center;
     color: #fff;
 }
@@ -29,6 +30,15 @@ h2 {
     left: 50%;
     height: 100vh;
     min-height: 100vh;
+}
+
+.activity{
+    height: 200px;
+}
+
+.mysection{
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 
@@ -107,5 +117,7 @@ section .section-title {
     border-left: transparent;
     padding-bottom: 0px;
     margin-bottom: 10px;
+    }
 }
-}
+
+
