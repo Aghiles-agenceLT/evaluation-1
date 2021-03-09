@@ -1,7 +1,11 @@
+body {
+    background-color: #212121;
+}
+
 .hero {
     background-color: #212121;
-    height: 90vh;
-    min-height: 90vh; 
+    height: 100vh;
+    min-height: 100vh; 
     padding-top: 30vh;
 }
 
@@ -36,7 +40,6 @@ h2 {
 
 
 /* Footer */
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 section {
     padding: 60px 0;
     width: 100vw;
@@ -51,13 +54,14 @@ section .section-title {
     text-transform: uppercase;
 }
 #footer {
-    background: #212121 !important;
+    background: black !important;
 }
 #footer h5{
 	padding-left: 10px;
     padding-bottom: 6px;
     margin-bottom: 20px;
     color:#10F4D9;
+    font-weight: 900;
 }
 #footer a {
     color: #ffffff;
@@ -107,7 +111,6 @@ section .section-title {
 @media (max-width:767px){
 	#footer h5 {
     padding-left: 0;
-    border-left: transparent;
     padding-bottom: 0px;
     margin-bottom: 10px;
     }
