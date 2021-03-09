@@ -2,7 +2,7 @@
     background-color: #212121;
     height: 90vh;
     min-height: 90vh; 
-    padding-top: 35%;
+    padding-top: 30vh;
 }
 
 h1 {
@@ -23,14 +23,7 @@ h2 {
     width: 100%;
 }
 
-.row-full{
-    width: 100vw;
-    position: relative;
-    margin-left: -50vw;
-    left: 50%;
-    height: 100vh;
-    min-height: 100vh;
-}
+
 
 .activity{
     height: 200px;
